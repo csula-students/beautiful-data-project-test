@@ -1,6 +1,7 @@
 # Data Science 2016
 
 [![Build Status](https://travis-ci.org/csula-students/beautiful-data-project-test.svg?branch=master)](https://travis-ci.org/csula-students/beautiful-data-project-test)
+[![Coverage Status](https://coveralls.io/repos/github/csula-students/beautiful-data-project-test/badge.svg?branch=master)](https://coveralls.io/github/csula-students/beautiful-data-project-test?branch=master)
 
 Welcome to the Spring 2016 Data Science class!
 
